@@ -1,4 +1,4 @@
-# React + Vite
+# Random Password Generator
 This is a comprehensive React application designed to empower you with secure and random password generation.  It eliminates the hassle of creating strong passwords while ensuring the safety of your online accounts.
 
 Features Tailored for Security
